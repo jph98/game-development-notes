@@ -1,5 +1,7 @@
 # game-development-notes
 
+[[udemy-pixelart.md]]
+
 Resources
 =========
 
