@@ -14,6 +14,8 @@ https://www.udemy.com/learn-to-create-pixel-art-for-your-game/learn/v4/lecture/3
 
 Piskel - http://www.piskelapp.com
 
+32 x 32 pixels by default
+
 https://www.udemy.com/learn-to-create-pixel-art-for-your-game/learn/v4/lecture/3676388
 
 #3. First Creation
@@ -32,3 +34,15 @@ https://www.udemy.com/learn-to-create-pixel-art-for-your-game/learn/v4/lecture/4
 #4. Pixel Tools
 
 https://www.udemy.com/learn-to-create-pixel-art-for-your-game/learn/v4/lecture/4224098
+
+# 5. Shapes, Values and Edges
+
+Curves can be created through a basic one, two three pixels in an arc technique.
+
+# 6. Negative Space
+
+Incredibly important when using a reference image (look at the area around it).
+
+# 7. Perspective
+
+Draw smaller tree above and to the right of the other... 
