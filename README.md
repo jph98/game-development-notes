@@ -9,6 +9,7 @@ Resources
 * Game Design - http://www.lostgarden.com/
 
 Graphic Sources:
+* Loads of sprites - http://daid.eu/~daid/tigsource_pics/?action=show&topic=167
 * Open Game Art - http://opengameart.org/
 * Sprite Database - http://spritedatabase.net/
 * https://www.scirra.com/forum/link-to-t-111-ns-of-free-sprites_t62281
