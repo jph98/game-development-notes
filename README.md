@@ -1,6 +1,6 @@
 # game-development-notes
 
-[[udemy-pixelart.md|Udemy Course]]
+[udemy-pixelart.md](Udemy Course)
 
 Resources
 =========
