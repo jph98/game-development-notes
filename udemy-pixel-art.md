@@ -1,4 +1,4 @@
-1. Overview:
+#1. Overview:
 
 https://www.udemy.com/learn-to-create-pixel-art-for-your-game/learn/v4/lecture/3157518
 
@@ -10,13 +10,13 @@ https://www.udemy.com/learn-to-create-pixel-art-for-your-game/learn/v4/lecture/3
 * Key Frames and Animation
 * Motion Blur
 
-2. Piskel Intro
+#2. Piskel Intro
 
 Piskel - http://www.piskelapp.com
 
 https://www.udemy.com/learn-to-create-pixel-art-for-your-game/learn/v4/lecture/3676388
 
-3. First Creation
+#3. First Creation
 
 https://www.udemy.com/learn-to-create-pixel-art-for-your-game/learn/v4/lecture/4186300
 
@@ -29,6 +29,6 @@ https://www.udemy.com/learn-to-create-pixel-art-for-your-game/learn/v4/lecture/4
 * Shade the parts you'd exepct to hit the light source
 * Make sure you use zoom out to find out how your character looks
 
-4. Pixel Tools
+#4. Pixel Tools
 
 https://www.udemy.com/learn-to-create-pixel-art-for-your-game/learn/v4/lecture/4224098
