@@ -46,3 +46,39 @@ Incredibly important when using a reference image (look at the area around it).
 # 7. Perspective
 
 Draw smaller tree above and to the right of the other... 
+
+# 8. Values
+
+Choose a values palette.
+
+Using values to show light based on a light source.
+
+Using values to show depth.
+* Contrast - at front (blacks, whites)
+* * Reduce contrast as you go back in the image
+
+Cleaning up your lines
+* Fib Sequence for lines
+ 
+Anti Aliasing
+* Use conservatively
+
+# 9. The Colour Wheel
+* Choose five colours using the hue
+* Red, Orange, Yellow, Green, Blue, Purple
+
+Warm and Cool
+* Red, Orange, Yellow - Warm Colours (Light) WARM
+* Green, Blue, Purple (Shadows) COOL
+
+Primary - Red, Yellow, Blue
+Secondary - Purple, Orange, Green
+Tertiary - mix primary and secondary (Green + Blue = Teal)
+
+Complimentary
+* Yellow and Purple (opposite each other in the colour wheel, go together)
+* Green and Orange
+* Blue and Orange (best) - sunset
+
+Hue:
+
