@@ -82,5 +82,40 @@ Complimentary
 
 https://color.adobe.com/create/color-wheel/?base=2&rule=Complementary&selected=0&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.7,0,0,1,0.09999999999999998,0.09999999999999998,1,0,0,0,0.7,0.19811320754715778,0,1,0.28301886792451114&swatchOrder=0,1,2,3,4
 
-Hue:
+# 10. Hue
+* Values from 0 - 255
+* HSV
+* Use this to create colours (HSV)
 
+Saturation
+* How grey or coloured this looks
+
+Value with Colours
+* (the V is HSV)
+* Bright Blue vs Dark Blue
+* More shadowed areas - shift V downwards
+
+Creating a simple palette
+* Fill the tree in green
+* Bring the value (V) up for the green for the lighter parts
+* Add saturation - going to be a bit more colourful
+* Hue shifts need to be very subtle - value, some sat, move into blue
+
+# 11. Mockup Shapes
+
+https://www.udemy.com/learn-to-create-pixel-art-for-your-game/learn/v4/t/lecture/4228958
+
+Step 1. Blocks and use the layers
+Step 2. Greys - the values
+Step 3. Then add the colours
+
+# 12. Animation
+* Toggle Onionskin
+* Turn off animation by reducing frames to 0
+* Coin Example - flipping the image and reducing the size
+
+Key Frames - core to the animation
+* Have additional frames as well, but not key to the main purpose
+* Follow the key frames from the character sprite
+
+https://www.udemy.com/learn-to-create-pixel-art-for-your-game/learn/v4/t/lecture/3676404
