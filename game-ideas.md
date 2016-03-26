@@ -9,22 +9,20 @@ Types
 * Card Based Games
 * Turn Based RPG
 * Turn Based Shooter
+* Simulation Type Game (Warcraft, Warcraft 2)
 
-1. Vertical Shooter
-
-Variations:
+Shmup Variations:
 * Shmup - vertical
 * Shmup - scrolling map
-* 
 
-2. Arkanoid Clone
-3. Bomberman Clone
-4. Bombjack Clone
-5. Cannabalt Clone
-6. Tiny Wings Clone
-7. Text Adventure - similar to Lifeline on iOS
-8. Pang Clone
-9. Bubble Bobble Clone
+1. Arkanoid Clone
+2. Bomberman Clone
+3. Bombjack Clone
+4. Cannabalt Clone
+5. Tiny Wings Clone
+6. Text Adventure - similar to Lifeline on iOS
+7. Pang Clone
+8. Bubble Bobble Clone
 
 Spectrum Game Influences:
 * Chaos
@@ -33,6 +31,7 @@ Spectrum Game Influences:
 * Quazatron
 * Exolon
 * Renegade
+* Bruce Lee
 * Finders Keepers/Spellbound/Stormbringer
 * Contact Sam Cruise
 * Cybernoid
@@ -54,3 +53,5 @@ Amiga Game Influences:
 * Lemmings
 * Syndicate
 * Cannon Fodder
+* Command and Conquer
+* Warcraft
